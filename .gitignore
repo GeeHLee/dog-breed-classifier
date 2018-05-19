@@ -1,0 +1,21 @@
+.DS_Store
+dogImages/
+lfw/
+saved_models/weights.best.from_scratch.hdf5
+saved_models/weights.best.vgg16.hdf5
+.ipynb_checkpoints/
+bottleneck_features/DogVGG16Data.npz
+
+
+# python config file
+.ipynb_checkpoints
+__MACOSX
+__pycache__
+
+# dataset
+images
+lfw
+dogImages
+
+# pre-training model
+bottleneck_features
